@@ -1,4 +1,4 @@
-# Résumé du Code de l'Application en Go
+# Résumé du Code
 
 ## Objectif
 L'application est conçue pour la recherche et la gestion de profils et de fonctions.
@@ -39,5 +39,6 @@ L'application est conçue pour la recherche et la gestion de profils et de fonct
       ...
     </AssociationProfilFonctionsEtSousFonctions>
     </AssociationsProfilsFonctionsEtSousFonctions>
+
 
 
